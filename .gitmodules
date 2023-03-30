@@ -1,0 +1,3 @@
+[submodule "strategy-pattern"]
+	path = strategy-pattern
+	url = https://github.com/Mateusz-Matusiak/strategy-pattern
